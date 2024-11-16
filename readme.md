@@ -1,13 +1,4 @@
-# Miodistrofias
-
-## Título
-
-**Miodistrofias: Un análisis integral de las enfermedades musculares**
-
-## Subtítulo
-
-**Información sobre las miodistrofias y su impacto en la salud muscular**  
-Este proyecto proporciona una visión detallada sobre las miodistrofias, su fisiopatología, las características clínicas y las opciones de tratamiento y rehabilitación.
+# Miodistrofias: Un análisis integral de las enfermedades musculares
 
 ## Objetivos de Aprendizaje
 
